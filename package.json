@@ -1,0 +1,15 @@
+{
+  "name": "discord-twitter-noti",
+  "version": "1.0.0",
+  "description": "Discord Twitter Notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kkiro",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "^2.2.3",
+    "twitter": "^1.4.0"
+  }
+}
